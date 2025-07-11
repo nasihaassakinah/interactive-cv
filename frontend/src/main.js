@@ -1,6 +1,6 @@
 // src/main.js
 import './assets/main.css';
-import '@fortawesome/fontawesome-free/css/all.min.css'; // ✅ Tambahkan ini
+
 
 import { createApp } from 'vue';
 import App from './App.vue';
